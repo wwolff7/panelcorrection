@@ -60,8 +60,8 @@ Phil Harvey, ExifTool author help me a lot!
 
 Finally, open the Panel_correction.py file and edit it with some python IDE (e.g., emacs,
 vim, spyder, jupyter, atom, etc.). Just set up the path of your images and let the
-panel capture before the flight as the first files and the panel capture after
-the flight as the last files.
+panel capture before the flight as the first file and the panel capture after
+the flight as the last file.
 
 
 ## Remarks

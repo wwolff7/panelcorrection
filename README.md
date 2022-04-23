@@ -52,7 +52,7 @@ For editing and replacing image metadata values the file **ExifTool_config** mus
 replace the original **.Exiftool_config** file. For example on Ubuntu:
 
 ```
-cp ExifTool_config ~/.Exiftool_config
+cp ExifTool_config ~/.ExifTool_config
 ```
 For more details please see my question on [ExifTool
 forum](https://exiftool.org/forum/index.php?topic=10831.msg57671#msg57671).

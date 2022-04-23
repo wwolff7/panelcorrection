@@ -33,12 +33,6 @@ cd imageprocessing
 conda activate micasense
 python setup.py install
 ```
-## or installing via pip in a virtual enviroment, for instance:
-
-```
-pyenv virtualenv 3.8.0 micasense
-pip install git+https://github.com/micasense/imageprocessing.git
-```
 
 ## Cloning the **panelcorrection** repository
 
